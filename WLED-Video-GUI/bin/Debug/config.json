@@ -1,0 +1,9 @@
+{
+  "host": "192.168.1.142",
+  "height": "16",
+  "width": "36",
+  "scale": "fill",
+  "interpolation": "smooth",
+  "gamma": "0.5",
+  "crop": ""
+}

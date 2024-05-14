@@ -10,7 +10,7 @@ WLED Video GUI is a C# application that provides a graphical interface for strea
 - Live preview of the video being streamed.
 
 ## Screenshot
-![WLED Video GUI](resources/screenshot.png)
+![WLED Video GUI](screenshot.png)
 
 ## Requirements
 

@@ -1,0 +1,76 @@
+[0513/144831.556:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0513/144831.643:INFO:component_installer.cc(309)] Failed to verify installation for Widevine Content Decryption Module (C:\Users\modce\AppData\Local\CEF\User Data\WidevineCdm\4.10.2710.0).: The system cannot find the path specified. (0x3)
+[0513/144831.895:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/144831.899:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/144832.018:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/144832.051:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/144832.090:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+[0513/144834.355:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/144834.407:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145045.144:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0513/145045.538:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145045.541:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145045.628:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/145045.664:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145056.087:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145056.136:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145057.457:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145057.457:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145057.457:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145057.457:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145057.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/145103.285:INFO:CONSOLE(5491)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/3725d26e/jsbin/desktop_polymer.vflset/desktop_polymer.js (5491)
+[0513/145103.714:WARNING:obfuscated_file_util.cc(1336)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0513/145103.879:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145103.879:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145103.879:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145104.938:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.youtube.com/ (0)
+[0513/145104.991:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-29A9D17F1D98D662112E498A6850F1BC will be ignored
+[0513/145104.991:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-29A9D17F1D98D662112E498A6850F1BC will be ignored
+[0513/145105.343:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-E06812BD2CFA702E12FBB602F393CE3E will be ignored
+[0513/145105.344:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-E06812BD2CFA702E12FBB602F393CE3E will be ignored
+[0513/145106.284:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-1C5E732075D78921C0D82697928437AA will be ignored
+[0513/145106.284:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-1C5E732075D78921C0D82697928437AA will be ignored
+[0513/145106.400:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.youtube.com/ (0)
+[0513/145106.400:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.youtube.com/ (0)
+[0513/145112.045:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0513/145326.390:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0513/145326.696:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145326.702:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145326.840:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/145326.883:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145327.167:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145327.222:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[0513/145327.398:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145327.398:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145327.398:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145327.398:WARNING:browser_info.cc(328)] Returning a speculative frame for [7,5]
+[0513/145327.400:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/145327.567:INFO:CONSOLE(5491)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/3725d26e/jsbin/desktop_polymer.vflset/desktop_polymer.js (5491)
+[0513/145327.949:WARNING:obfuscated_file_util.cc(1336)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0513/145328.116:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-61A3291AAF8024DBDA4190CCBFAAE705 will be ignored
+[0513/145328.116:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-61A3291AAF8024DBDA4190CCBFAAE705 will be ignored
+[0513/145328.119:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.youtube.com/ (0)
+[0513/145328.671:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-8D0BFD46731D363414FF61E74BFC28E7 will be ignored
+[0513/145328.671:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-8D0BFD46731D363414FF61E74BFC28E7 will be ignored
+[0513/145329.650:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-D2E12904BE74588D843D845F9BCBE4F9 will be ignored
+[0513/145329.650:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-D2E12904BE74588D843D845F9BCBE4F9 will be ignored
+[0513/145332.665:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0513/145332.824:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145332.825:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145332.825:INFO:CONSOLE(0)] "requestStorageAccessFor: Permission denied.", source: https://www.youtube.com/ (0)
+[0513/145336.288:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0513/145350.139:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0513/145350.151:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-3AD4107DCE4C0DFDBE42BE2498A53614 will be ignored
+[0513/145350.553:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.553:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.575:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.576:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-5B2F46E5C36BE64C9532DE306871BE5B will be ignored
+[0513/145350.576:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-5B2F46E5C36BE64C9532DE306871BE5B will be ignored
+[0513/145350.591:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.591:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.615:ERROR:CefAppUnmanagedWrapper.cpp(330)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0513/145350.616:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-3BAFE04C51315BDF63973B6B0CEDADB0 will be ignored
+[0513/145350.616:WARNING:frame_impl.cc(432)] SendProcessMessage sent to detached frame 6-3BAFE04C51315BDF63973B6B0CEDADB0 will be ignored
