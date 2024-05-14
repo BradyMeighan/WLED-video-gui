@@ -34,12 +34,12 @@ WLED Video GUI is a C# application that provides a graphical interface for strea
     pip install -r requirements.txt
     ```
 
-4. Copy `wledvideo.py` to the appropriate directory.
+4. Naviagte to \WLED-video-gui\WLED-Video-GUI\bin\Debug and run WLED-Video-GUI.exe
 
 ## Configuration
 
 1. Edit the `config.json` file to set your WLED controller's host, video resolution, and other settings.
-2. Use the GUI to adjust settings and save configurations.
+2. Or use the GUI to adjust settings and save configurations.
 
 ## Usage
 
@@ -73,6 +73,10 @@ WLED Video GUI is a C# application that provides a graphical interface for strea
     git push origin feature-name
     ```
 6. Create a pull request.
+
+## Disclaimer
+
+It's been a while since I've worked with C# and Windows Forms Apps, so this project may have some bugs. Everything has worked during my testing, but I welcome any contributions to improve and clean up the code. Your help is much appreciated!
 
 ## Contributing
 
