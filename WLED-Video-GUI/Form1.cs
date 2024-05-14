@@ -317,7 +317,11 @@ namespace WLED_Video_GUI
             {
                 process.Kill();
             }
-            _mediaPlayer.Stop();
+            if (livePreviewToggle.Checked)
+            {
+                _mediaPlayer.Stop();
+            }
+
         }
 
         private void desktopRadioButton1_CheckedChanged(object sender, EventArgs e)
