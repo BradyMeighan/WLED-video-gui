@@ -1,6 +1,6 @@
 # WLED Video GUI
 
-WLED Video GUI is a C# application that provides a graphical interface for streaming video from your desktop to a WLED controller. This application integrates a Python script (`wledvideo.py`) to handle the video streaming.
+WLED Video GUI is a C# application that provides a graphical interface for streaming video from your desktop to a WLED controller. This application integrates a Python script (`wledvideo.py`) to handle the video streaming. If you wanna check out the original CLI that this is based off of you can go here https://github.com/fieldOfView/WLED-video
 
 ## Features
 
