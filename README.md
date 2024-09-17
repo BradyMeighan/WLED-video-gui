@@ -4,7 +4,7 @@
 > 
 > This project is no longer actively maintained. For the latest version with enhanced features and improvements, please check out our new project:
 > 
-> [LED Video Wall Streamer](https://github.com/BradyMeighan/WLED-Studio)
+> [WLED Studio](https://github.com/BradyMeighan/WLED-Studio)
 > 
 > We encourage you to use the new project for the best experience and latest features.
 
